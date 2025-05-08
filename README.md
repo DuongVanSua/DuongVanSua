@@ -27,7 +27,7 @@
 
 - Email: duongsua.work@gmail.com
 
-- LinkedIn: linkedin.com/in/duongvansua (replace with your real link)
+- LinkedIn: https://www.linkedin.com/in/sua-duong-270444339/
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions and love working with teams that value clean code and real impact.
 

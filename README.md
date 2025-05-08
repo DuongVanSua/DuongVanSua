@@ -25,7 +25,7 @@
 
 📫 How to reach me:
 
-- Email: your.email@example.com
+- Email: duongsua.work@gmail.com
 
 - LinkedIn: linkedin.com/in/duongvansua (replace with your real link)
 
